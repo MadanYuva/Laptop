@@ -1,0 +1,13 @@
+Step1:Install goggle colab or jupyter notebook
+
+Step2:Download the dataset and upload it on google drive
+
+Step3:open Laptop Price Prediction.py file on your colab
+
+Step4:Mount the Google drive 
+
+Step5:Then run the code cells
+
+Step6:The streamlit library will generate one url click on that url then one webpage will open 
+
+Step7:Then start filling the laptop configurations to predict its price by clicking on predict price
